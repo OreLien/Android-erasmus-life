@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Erasmus Life</string>
+    <string name="welcome_message">Bienvenue à Tours jeune étudiant Erasmus !</string>
+    <string name="description_message">Clique sur les vignettes ci-dessous pour obtenir des infos pratiques sur la ville !</string>
+    <string name="dialog_infos_messages">- 130 000 habitants\n- La plus grande commune de la région Centre\n- Une ville historique\n- Un patrimoine architectural</string>
+    <string name="dialog_infos_title">Quelques chiffres</string>
+    <string name="learn_more">En savoir plus...</string>
+    <string name="dialog_numbers_title">Numéros d\'appel d\'urgence</string>
+    <string name="dialog_tramway_title">Tramway de Tours</string>
+    <string name="open_maps">Ouvrir Maps...</string>
+    <string name="dialog_studying_title">Étudier à Tours</string>
+    <string name="dialog_studying_message">- 28 000 étudiants\n- 120 nationalités\n- 80 associations étudiantes\n- Plus de 70 bars ;-)</string>
+    <string name="dialog_tramway_message">- 15km de voies\n- 1 ligne\n- 29 stations\n- 53 000 voyageurs par jour</string>
+    <string name="dialog_numbers_message">- Police : 17\n- Samu : 15\n- Pompier : 18\n- Numéro d\'urgence européen : 112</string>
+</resources>
